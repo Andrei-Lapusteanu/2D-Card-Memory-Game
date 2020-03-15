@@ -13,7 +13,7 @@
 
 - Uses standard card deck (minus joker cards)
 - Every game randomizes cards as well as their positions
-- 
+- Player performance tracked on UI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU1Mzg2MDhdfQ==
+eyJoaXN0b3J5IjpbLTE0MjU1NzUzNl19
 -->
