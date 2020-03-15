@@ -12,7 +12,8 @@
 # Functionality
 
 - Uses standard card deck (minus joker cards)
-- Every game randomizes ca
+- Every game randomizes cards as well as their positions
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NDE5MDg2XX0=
+eyJoaXN0b3J5IjpbLTE5NzU1Mzg2MDhdfQ==
 -->
