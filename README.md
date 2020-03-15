@@ -3,6 +3,7 @@
 ## Summary
 
  Simple 2D card memory game implemented in Unity for a school assignement
+ <br>
 <a href="https://imgur.com/ml1MLDe"><img src="https://i.imgur.com/ml1MLDe.gif" title="source: imgur.com" /></a>
 
 # Technologies
@@ -15,5 +16,5 @@
 - Every game randomizes cards as well as their positions
 - Player performance tracked on UI
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU1NzUzNl19
+eyJoaXN0b3J5IjpbNjA3NTA3MTIwXX0=
 -->
